@@ -7,7 +7,6 @@ This web app is a Instagram like image sharing app and bootstrapped with [Create
 3. Like Feature - On Clicking Image and Heart both
 4. Delete Feature - Delete the Image post
 5. Home Page and Profile page
-6. Beautiful UI  
 
 
 ## Steps to Reproduce on local
